@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = /Users/eamon/ownCloud/research/results/simulation/e20150629_se_b1/.git
+	branch = master
+	commit = a4d4c3520a10ffc93f40c2897d70635430fabd66
+	parent = a07e11bb88ac06b5ef29c16daaa2d5028916d403
+	cmdver = 0.3.0
