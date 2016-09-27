@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = /Users/eamon/repos/ironbloch/.git
+	branch = master
+	commit = f81e4d5e1eb46985a1fc1a94a1acd9c81fda9f50
+	parent = 8825c35b96bd8ec620e0f860c00fdf514c0ccce2
+	cmdver = 0.3.0
