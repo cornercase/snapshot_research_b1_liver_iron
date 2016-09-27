@@ -1,2 +1,6 @@
-# 2016_b1_liver_iron
-Repository of software used for 2015-2016 work related to B1+ Inhomogeneity effects on MRI-based liver iron estimates 
+This repo represents a snapshot of 3 separate repos at the time they were used to generate research results and analysis.
+
+Some of the code is unpolished and is therefore provided without warranty.
+
+All code is licensed under Apache 2.0.
+
