@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = /Users/eamon/ownCloud/research/results/scanning/b1_comparison_field/.git
+	branch = nobins
+	commit = e26686d9192de76c9c67dc997e5ec8c8aaf68854
+	parent = 2bd706aeb9c85ec8f40b42307290b2cd38470b48
+	cmdver = 0.3.0
